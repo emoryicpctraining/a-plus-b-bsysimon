@@ -2,7 +2,7 @@ name: Update From Template
 
 on:
   schedule:
-    - cron: '*/10 * * * *'  # This will run every day at midnight
+    - cron: '*/2 * * * *'  # This will run every day at midnight
 
 jobs:
   update:
