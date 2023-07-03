@@ -1,8 +1,9 @@
 name: Update From Template
 
 on:
-  schedule:
-    - cron: '*/2 * * * *' 
+  push:
+    branches:
+      - main 
 
 jobs:
   update:
