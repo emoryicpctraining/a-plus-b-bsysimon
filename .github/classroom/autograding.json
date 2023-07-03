@@ -5,7 +5,7 @@
       "setup": "",
       "run": "python3 test.py",
       "input": "",
-      "output": "Pass\r\nPass\r\nPass",
+      "output": "Pass\r\nPass\r\nPass\r\nPass\r\nPass\r\nPass\r\nPass\r\nPass",
       "comparison": "exact",
       "timeout": 10,
       "points": null
