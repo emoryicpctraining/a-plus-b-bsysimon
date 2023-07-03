@@ -54,7 +54,7 @@ def main():
             print("Pass")
             correct_cases += 1
         else:
-            print("Fail")
+            print("Fail, you have",output,'but expected',ans)
 
 if __name__ == "__main__":
     main()
