@@ -29,8 +29,8 @@ jobs:
 
     - name: Commit and push if it changed
       run: |
-        git config --global user.name "Dooley the Skeleton"
-        git config --global user.email "dooleytheskeleton@exaaaaample.com"
+        git config --global user.name "Simon Bian"
+        git config --global user.email "bsysimon@gmail.com"
         git add .
         git diff-index --quiet HEAD || git commit -m "Automated update from template"
         git push
