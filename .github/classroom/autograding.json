@@ -1,13 +1,13 @@
 {
   "tests": [
     {
-      "name": "Final",
+      "name": "Pyttest",
       "setup": "",
       "run": "python3 test.py",
       "input": "",
-      "output": "",
+      "output": "pass\r\npass",
       "comparison": "included",
-      "timeout": 1,
+      "timeout": 10,
       "points": null
     }
   ]
