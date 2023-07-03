@@ -5,8 +5,8 @@
       "setup": "",
       "run": "python3 test.py",
       "input": "",
-      "output": "Pass\r\nPass",
-      "comparison": "included",
+      "output": "Pass\r\nPass\r\nPass",
+      "comparison": "exact",
       "timeout": 10,
       "points": null
     }
